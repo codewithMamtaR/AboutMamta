@@ -274,3 +274,23 @@ color: #fff;
     border-radius: 5px;
 }
 
+@media (max-width: 768px) {
+    .abtme {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .abtme-img img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .abtme-text {
+        padding: 10px 20px;
+    }
+
+    .intro {
+        text-align: justify; /* still keep justified text */
+    }
+}
