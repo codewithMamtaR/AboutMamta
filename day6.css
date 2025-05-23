@@ -1,12 +1,12 @@
 header ,footer {
     background: linear-gradient(to right,hwb(273 28% 53%),hwb(184 59% 34%));
-    color:beige;
+    color:cornsilk;
     text-align: center;
     padding: 20px 0;
     position: relative;
     bottom: 0;
     width: 100%;
-    font-family: "Tangerine" ,sans-serif ;
+    font-family: "Tangerine",sans-serif ;
     font-size: 500 px;
    
 }
@@ -16,7 +16,9 @@ hr{
     margin: 20px auto;
     border-top:1px solid cadetblue;
 }
-
+.mamta{
+    font-size: 60px;
+}
 body{
     font-family: 'Georgia',sans-serif;
     background-color:hwb(273 28% 53%);
